@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    border: solid 1px;
+    height: 650px;
+    background-image: url(pizza2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1350px 650px;
+}
+form{
+    border: solid 1px white;
+    margin-left: 910px;
+    width: 400px;
+    margin-top: 220px;
+    padding: 10px;
+}
+label{
+    color: whitesmoke;
+    font-size: 20px;
+}
+h1{
+    color: rgb(236, 236, 80);
+    font-size: 40px;
+    text-align: center;
+}
+input{
+    height: 30px ;
+    width: 40px;
+}
+button{
+    height: 40px;
+    width: 90px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+
+}
+p{
+    color: gold;
+    font-size: 20px;
+}
+p{
+    color: aliceblue;
+    font-size: 29px;
+    f
+}
